@@ -24,3 +24,13 @@ Pastikan Python 3 sudah terpasang:
 
 ```bash
 python3 --version
+```
+Install package
+```bash
+pkg install python pillow numpy -y
+```
+
+RUN
+```bash
+python ultimate_steno.py YOUR_IMAGE.png
+```
