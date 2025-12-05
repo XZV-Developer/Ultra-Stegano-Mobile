@@ -1,0 +1,5 @@
+install package:
+pkg install python pillow numpy -y
+
+How to run:
+python ultimate_steno.py YOUR_IMAGE.png
