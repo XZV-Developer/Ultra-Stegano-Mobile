@@ -25,9 +25,13 @@ Pastikan Python 3 sudah terpasang:
 ```bash
 python3 --version
 ```
+download
+```bash
+git clone https://github.com/XZV-Developer/Ultra-Stegano-Mobile.git
+```
 Install package
 ```bash
-pkg install python pillow numpy -y
+pkg install git python pillow numpy -y
 ```
 
 RUN
